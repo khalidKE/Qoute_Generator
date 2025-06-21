@@ -1,16 +1,54 @@
-# qoute
 
-A new Flutter project.
 
-## Getting Started
+# 📚 Quotes App
 
-This project is a starting point for a Flutter application.
+A sleek and modern **Flutter application** that displays random inspirational quotes, allows users to **save favorites**, and provides a **searchable collection** of saved quotes. Designed with smooth animations and responsive layouts.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ **Random Quote Display**
+
+* Shows a new inspirational quote each time the app is opened or refreshed.
+
+🎨 **Modern UI with Gradient Background**
+
+* Clean and elegant interface with customizable gradient themes.
+
+⭐ **Favorite Management**
+
+* Easily add or remove quotes from your favorites collection with a single tap.
+
+📖 **View & Search Favorites**
+
+* Access all saved quotes in one place.
+* Real-time search functionality with a clear/reset button.
+
+📱 **Responsive Design**
+
+* Fluid layouts that adapt to all screen sizes, including tablets and small devices.
+
+⚡ **Smooth Animations**
+
+* Enjoy polished transitions and animated elements throughout the app.
+
+🔢 **Favorites Counter**
+
+* See how many quotes you've favorited at a glance.
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd12e5f2-db32-412d-b19b-f5de653c68df" width="250"/>
+  <img src="https://github.com/user-attachments/assets/154edfc2-ec8c-496a-b686-bcc4321b837d" width="250"/>
+</p>
+
+
+
+
+---
+
+
